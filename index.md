@@ -1,12 +1,12 @@
 ## Legacy Codebase Risk Management and Team Optimization
 
-An expert in delivering compound value in tough legacy environments.  Articulate technical leader capable of solving problems at the intersection of mathematics, computer, and data science using tools developed in languages like C++, Python, Java, and R.  
+An expert in delivering compound value in tough legacy environments.  Articulate technical leader capable of solving problems at the intersection of mathematics, computer, and data science using tools developed in languages like C++, Python, Java, and R.
 
-I enjoy building teams and cultivating workplace relationships because we're all successful when we work better together. 
+I enjoy building teams and cultivating workplace relationships because we're all successful when we work better together.
 
 ### Legacy Codebase Risk Management
 
-I specialize in derisking legacy codebases by increasing engineering team understanding through code coverage metrics, testing, and collaboration.  An expert in balancing software enhancement go-to-market needs against technical debt, bring clear test-driven development and sound engineering practices to bear on project requirements.  Will devise sound software solutions under tight constraints in a clear and maintainable way, with robust documentation. 
+I specialize in derisking legacy codebases by increasing engineering team understanding through code coverage metrics, testing, and collaboration.  An expert in balancing software enhancement go-to-market needs against technical debt, bring clear test-driven development and sound engineering practices to bear on project requirements.  Will devise sound software solutions under tight constraints in a clear and maintainable way, with robust documentation.
 
 ### Team Relationship Optimization
 
@@ -14,4 +14,4 @@ Successful in coaching team members with intrapersonal communication skills like
 
 ### Contact
 
-Reach-out to me at dave@appleside.org or by phone at +1 (603) 921-2059.
+Please contact me at djg@davidjgosselin.com

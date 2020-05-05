@@ -1,8 +1,8 @@
-## Legacy Development Risk Management and Team Optimization
+## Legacy Codebase Risk Management and Team Optimization
 
 An expert in delivering compound value in tough legacy environments.  Articulate technical leader capable of solving problems at the intersection of mathematics, computer, and data science using tools developed in languages like C++, Python, Java, and R.  
 
-I enjoy building teams and cultivating my workplace relationships because we're all successful when we work better together. 
+I enjoy building teams and cultivating workplace relationships because we're all successful when we work better together. 
 
 ### Legacy Codebase Risk Management
 

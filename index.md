@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Legacy Development Risk Management and Team Optimization
 
-You can use the [editor on GitHub](https://github.com/DavidGosselin/davidgosselin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+An expert in delivering compound value in tough legacy environments.  Articulate technical leader capable of solving problems at the intersection of mathematics, computer, and data science using tools developed in languages like C++, Python, Java, and R.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I enjoy building teams and cultivating my workplace relationships because we're all successful when we work better together. 
 
-### Markdown
+### Legacy Codebase Risk Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I specialize in derisking legacy codebases by increasing engineering team understanding through code coverage metrics, testing, and collaboration.  An expert in balancing software enhancement go-to-market needs against technical debt, bring clear test-driven development and sound engineering practices to bear on project requirements.  Will devise sound software solutions under tight constraints in a clear and maintainable way, with robust documentation. 
 
-```markdown
-Syntax highlighted code block
+### Team Relationship Optimization
 
-# Header 1
-## Header 2
-### Header 3
+Successful in coaching team members with intrapersonal communication skills like listening, empathy, and patience, without introducing new or unnecessary processes.  Skilled in casting vision to unify divided or frequently clashing teammates.  Articulate at all levels of the engineering organization, capable of bringing together disparate parties to advance projects forward.  Free engineers' thinking by encouraging ownership of results, not of implementations.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidGosselin/davidgosselin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Reach-out to me at dave@appleside.org or by phone at +1 (603) 921-2059.

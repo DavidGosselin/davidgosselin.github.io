@@ -9,7 +9,7 @@ with a highly successful track record.  I've served as a Technical Lead over two
 as an individual contributor at the Senior Principal and Principal levels.
 
 When I'm not coding, I faithfully serve the homeless population in my area, both by meeting them where they are on the street
-and through the Southern New Hampshire Rescue Mission [nashuarescuemission.org](nashuarescuemission.org), of which I'm a board member.  
+and through the Southern New Hampshire Rescue Mission ( [nashuarescuemission.org](https://nashuarescuemission.org) ), of which I'm a board member.  
 
 I was educated at the University of Maine and hold both a B.S. in Computer Science and a B.A. in Mathematics, graduating from 
 the Honors College with High Honors.  I was a member of Upsilon Pi Epsilon, the international honor society for the computer and 

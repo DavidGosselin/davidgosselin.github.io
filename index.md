@@ -14,4 +14,6 @@ Successful in coaching team members with intrapersonal communication skills like
 
 ### Contact
 
-Please reach me at djg@davidjgosselin.com
+[Learn more about me.](about.md)
+
+Email me at djg@davidjgosselin.com

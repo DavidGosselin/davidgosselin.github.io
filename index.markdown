@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 ## Legacy Codebase Risk Management and Team Optimization
 
 An expert in delivering compound value in tough legacy environments.  Articulate technical leader capable of solving problems at the intersection of mathematics, computer, and data science using tools developed in languages like C++, Python, Java, and R.

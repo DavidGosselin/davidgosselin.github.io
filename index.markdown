@@ -18,9 +18,3 @@ I specialize in derisking legacy codebases by increasing engineering team unders
 ### Team Relationship Optimization
 
 Successful in coaching team members with intrapersonal communication skills like listening, empathy, and patience, without introducing new or unnecessary processes.  Skilled in casting vision to unify divided or frequently clashing teammates.  Articulate at all levels of the engineering organization, capable of bringing together disparate parties to advance projects forward.  I free engineers to think bigger by encouraging them to own results instead of implementations.
-
-### Contact
-
-[Learn more about me.](about.md)
-
-Email me at djg@davidjgosselin.com
